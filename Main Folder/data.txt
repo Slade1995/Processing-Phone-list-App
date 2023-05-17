@@ -1,0 +1,11 @@
+Nokia,650,5.4
+Pixel,780,4.8
+Nokia,700,5.0
+Pixel,880,5.8
+Pixel,690,4.5
+Samsung,1299,7.7
+Apple,1700,5.8
+Apple,2100,6.1
+BlackBerry,1280,6.5
+Oppo,1099,8.1
+Samsung,1550,6.0

@@ -1,6 +1,7 @@
 # Processing-Phone-list-App
 Feel free to add more similar data to the txt file :)
-It is a very baisc app but i thought it was quite cool how it all worked.
+
+It is a very basic app but i thought it was quite cool how it all worked.
 This java app uses a txt file to read through the data and displays the information based on the method names. i will list the methods and what they do below:
 
  readData() reads the data file content and populates the list of SmartPhone instances.
